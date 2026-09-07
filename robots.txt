@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://borivali-property-guide.surge.sh/sitemap.xml
+Sitemap: https://lavkeshraj03.github.io/borivali-property-guide/sitemap.xml
