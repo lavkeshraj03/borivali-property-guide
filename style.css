@@ -318,7 +318,7 @@ li strong {
 }
 
 /* --------------------------------------------------------------------------
-   Hyperlinks & Target Backlink
+   Hyperlinks & Resource Links
    -------------------------------------------------------------------------- */
 a {
   color: var(--color-primary-light);
@@ -339,7 +339,7 @@ a:focus-visible {
   border-radius: 2px;
 }
 
-/* Highlighted Contextual Backlink Style */
+/* Highlighted Contextual Resource Box */
 .resource-link-wrapper {
   background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
   border: 1px solid #e2e8f0;
